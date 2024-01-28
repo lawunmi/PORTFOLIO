@@ -1,0 +1,19 @@
+/**
+File Name: education.css(Style sheet for Education Page)
+Student Name: Mistura Raheem
+Student ID: 301163500
+Date: 27-01-2023
+**/
+
+#edusection{
+    height: 100px;
+    width: 250px;
+    margin: 0 auto;
+    padding: 150px;
+    text-align: center;
+   }
+ 
+   #edusection a:hover{
+    color: blue;
+   }
+ 

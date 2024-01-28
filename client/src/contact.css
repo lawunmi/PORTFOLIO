@@ -1,0 +1,26 @@
+/**
+File Name: contact.css(Style sheet for Contact Page)
+Student Name: Mistura Raheem
+Student ID: 301163500
+Date: 27-01-2023
+**/
+
+#contactform{
+    margin: 0 auto;
+    height: 100px;
+    width: 400px;
+    padding: 100px;
+}
+
+#contactform input{
+    width: 400px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+#submit:hover{
+    background-color: blanchedalmond;
+    color:black;
+    cursor: pointer;
+}
