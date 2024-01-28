@@ -7,13 +7,12 @@ Date: 27-01-2023
 
 #contactform{
     margin: 0 auto;
-    height: 100px;
-    width: 400px;
-    padding: 100px;
+    min-height: 100px;
+    width: 650px;
 }
 
 #contactform input{
-    width: 400px;
+    width: 600px;
     height: 40px;
     border: none;
     border-radius: 5px;

@@ -4,3 +4,33 @@ Student Name: Mistura Raheem
 Student ID: 301163500
 Date: 27-01-2023
 **/
+
+#projdiv{
+    width: 1000px;
+    margin: 70px;
+    padding: 50px;
+}
+
+#project3{
+    height: 400px;
+    width: 250px;
+    background-color: orange;
+    float: right;
+    text-align: center;
+    margin-left: 120px;
+}
+
+#project2{
+    height: 400px;
+    width: 250px;
+    background-color: orange;
+    float: right;
+    text-align: center;
+}
+
+#project1{
+    height: 400px;
+    width: 250px;
+    background-color: orange;
+    text-align: center;
+}

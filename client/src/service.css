@@ -1,11 +1,11 @@
 /**
-File Name: education.css(Style sheet for Education Page)
+File Name: education.css(Style sheet for Service Page)
 Student Name: Mistura Raheem
 Student ID: 301163500
 Date: 27-01-2023
 **/
 
-#edusection{
+#sersection{
     height: 100px;
     width: 250px;
     margin: 0 auto;
@@ -13,7 +13,7 @@ Date: 27-01-2023
     text-align: center;
    }
  
-   #edusection a:hover{
+   #sersection a:hover{
     color: blue;
    }
  
