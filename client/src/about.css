@@ -13,10 +13,10 @@ Date: 27-01-2023
    }
  
    #rightaboutsection{
-    height: 320px;
-    width: 450px;
-    background-color: yellow;
+    height: 300px;
+    width: 300px;
     float:right;
+    border-radius: 50%;
    }
  
    #leftaboutsection{

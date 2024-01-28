@@ -1,11 +1,12 @@
 import '../src/about.css'
+import PICS from '../src/assets/images/picture.png'
 export default function About()
 {
     return (
         <>
             <div id= "aboutcontent">
                 <section id= "rightaboutsection">
-                    <p>nnfkjhffgf</p>
+                    <img src = {PICS} alt="my picture" width="300px" height="300px"/>
                 </section>
                 <section id= "leftaboutsection">    
                     <h1>Hi,</h1>
